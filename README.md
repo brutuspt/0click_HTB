@@ -11,12 +11,17 @@ Personally I like to proxy every request with Burp, in order to make it easier t
 
 Example Proofs:
 
+<br>
+
 Falafel machine:
 ![image](https://github.com/brutuspt/0click_HTB/assets/98529536/e251f042-e3d3-417b-a288-26858c5eac13)
 
+<br>
 
 Help machine:
 ![image](https://github.com/brutuspt/0click_HTB/assets/98529536/99fc48da-877c-48df-9f8c-569a1de5a352)
+
+<br>
 
 
 Schooled machine:
