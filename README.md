@@ -9,21 +9,19 @@ Disclaimer:
 Personally I like to proxy every request with Burp, in order to make it easier to debug the requests being sent but in this case I decided to comment out that part of the code.
 
 
-Example Proofs:
+### Example Proofs:
 
-<br>
 
-Falafel machine:
+##### Falafel machine:
+
 ![image](https://github.com/brutuspt/0click_HTB/assets/98529536/e251f042-e3d3-417b-a288-26858c5eac13)
 
-<br>
 
-Help machine:
+
+##### Help machine:
 ![image](https://github.com/brutuspt/0click_HTB/assets/98529536/99fc48da-877c-48df-9f8c-569a1de5a352)
 
-<br>
 
-
-Schooled machine:
+##### Schooled machine:
 ![image](https://github.com/brutuspt/0click_HTB/assets/98529536/46519356-e99d-4540-a239-b6d204ea6042)
 
