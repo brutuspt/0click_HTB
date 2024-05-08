@@ -8,6 +8,55 @@ Most of these scripts either allow you to obtain a reverse shell on the target m
 Disclaimer:
 Personally I like to proxy every request with Burp, in order to make it easier to debug the requests being sent but in this case I decided to comment out that part of the code.
 
+#### Sorted by specific Vulnerability
+
+##### XSS
+
+- Schooled (Medium)
+
+##### SSTI
+
+- RedPanda (Easy)
+- Doctor (Easy)
+
+##### Serialization
+
+- Arkham (Medium)
+- Celestial (Medium)
+- JSON (Medium)
+
+##### SSRF
+
+- Forge (Medium)
+  
+
+##### File Upload
+
+- Popcorn (Medium)
+- Vault (Medium)
+- Falafel (Hard)
+
+##### Type Juggling
+
+- Falafel (Hard)
+
+##### SQLi
+
+- Popcorn (Medium)
+- Shared (Medium)
+  
+
+##### LFI
+
+- Unattended (Medium)
+- Monitors (Hard)
+
+##### HTTP Smuggling
+
+- Sink (Insane)
+
+
+---
 
 ### Example Proofs:
 
